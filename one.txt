@@ -1,1 +1,2 @@
 hi thi is sample
+hi this is new feature
